@@ -1,0 +1,53 @@
+
+
+body 
+{
+background-color:white;
+text-align:center;
+
+}
+h2 {
+  color: white;
+  border-style:solid;
+  border-width:0px;
+  text-align: center;
+  background-color:black;
+  font-size:40px;
+  font-family:Palatino Linotype;
+} 
+.show{
+		padding:0.6% 5.5%;
+	display:inline-block;
+	font-size:10pt;
+	font-family:Palatino Linotype;
+	
+}
+
+.back{
+		padding:0.6% 5.5%;
+	display:inline-block;
+	font-size:10pt;
+	font-family:Palatino Linotype;
+	
+}
+table{
+    width: 80%;
+    margin: 30px auto;
+    border-collapse: collapse;
+    text-align: center;
+	color:white;
+	border-left:1px;
+	font-size:22px;
+}
+tr {
+    border-bottom: 1px solid #cbcbcb;
+}
+th, td{
+    border: 2px;
+    height: 30px;
+    padding: 2px;
+    border-color:white;
+}
+tr:hover {
+    background: gray;
+}

@@ -1,0 +1,18 @@
+<p>
+As we listened the word ‘Ambulance’ the first thing comes to mind is the rescue process. In the modern era 
+wherethe population is increasing day by day, people feel uncomfortableand frightened due to danger 
+aspects of road accidents, some known and unknown disease which required the quickly treatment but
+unfortunately due to coupleof minute delay some important lives are lost. 
+</p>
+
+<h2>Proposed Solution:</h2>
+<p>
+1.The system proposed here will help the users book an ambulance easily in an instant. 
+2.The user will have to select the ambulance size, pick-up point & hospital.
+3. In case of emergency, the user will have to just select the pick-up point & destination and the system will 
+automatically book the nearest ambulance and hospital.
+4.Once booked the ambulance operator will receive a notification for confirmation of the booking. 
+5.The Ambulance driver can view the pick-up and drop location on Goggle Maps. 
+6.The users will receive the contact details of the driver. 
+7.The Hospitals can also view the booking history. 
+</p>

@@ -1,0 +1,62 @@
+
+body 
+{
+background-color:black;
+text-align:center;
+
+}
+h2 {
+  color: white;
+  border-style:solid;
+  border-width:0px;
+  text-align: center;
+  background-color:black;
+  font-size:40px;
+  font-family:Palatino Linotype;
+} 
+
+.registration_patient{
+
+color:white;
+font-size:19pt;
+font-family:Palatino Linotype;
+}
+
+.password_patient{
+	padding:0% 13%;
+	color:white;
+	font-size:19pt;
+	font-family:Palatino Linotype;
+}
+
+
+input{
+	
+	padding:0.6% 5.5%;
+	display:inline-block;
+	font-size:10pt;
+	font-family:Palatino Linotype;
+	
+}
+
+form{
+	
+	width:50%;
+	height:50%;
+	float:right;
+}
+.clear{
+	clear:both;
+}
+.error{
+	color:red;
+		font-family:Palatino Linotype;
+}
+.header{
+	color:white;
+	font-size:25px;
+}
+.footer{
+	color:white;
+	font-size:15px;
+}

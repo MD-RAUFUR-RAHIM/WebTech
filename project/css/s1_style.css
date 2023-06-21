@@ -1,0 +1,50 @@
+
+body 
+{
+background-color:white;
+text-align:center;
+
+}
+h2 {
+  color: black;
+  border-style:solid;
+  border-width:0px;
+  text-align: center;
+
+  font-size:20px;
+  font-family:Palatino Linotype;
+} 
+
+P{
+	
+	 color: black;
+  border-style:solid;
+  border-width:0px;
+  text-align: left;
+ 
+  font-size:18px;
+  font-family:Palatino Linotype;
+	
+}
+form{
+	border-width:0px;
+	border-style:solid;
+	height:70%;
+	
+	width:45%;
+	
+	float:right;
+}
+.clear{
+	clear:both;
+}
+input{
+	float:right;
+	
+	padding:1% 10%;
+	display:inline-block;
+	font-size:14pt;
+	font-family:Palatino Linotype;
+}
+
+
